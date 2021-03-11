@@ -11,7 +11,7 @@
     "desc": "Opinionated Vite Starter Template",
     "dynamic-route": "Demo of dynamic route",
     "hi": "Hi, {name}!",
-    "whats-your-name": "What's your name?"
+    "whats-your-name": "Enter your name"
   },
   "not-found": "Not found"
 }

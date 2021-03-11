@@ -9,6 +9,7 @@
     "@vueuse/head": "^0.5.1",
     "nprogress": "^0.2.0",
     "prism-theme-vars": "^0.2.0",
+    "vant": "^3.0.9",
     "vue": "^3.0.7",
     "vue-i18n": "^9.0.0",
     "vue-router": "^4.0.4"
@@ -33,6 +34,7 @@
     "vite-plugin-md": "^0.6.0",
     "vite-plugin-pages": "^0.6.1",
     "vite-plugin-pwa": "^0.5.6",
+    "vite-plugin-style-import": "^0.8.1",
     "vite-plugin-vue-layouts": "^0.2.2",
     "vite-plugin-windicss": "^0.7.1",
     "vite-ssg": "^0.8.12"
